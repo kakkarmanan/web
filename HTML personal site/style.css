@@ -1,0 +1,28 @@
+body{
+  background-color:#EAF6F6;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+h1{
+    color: #66BFBF;
+    font-family : "Comic Sans MS",cursive,sans-sherif;
+}
+h2{
+    color: #66BFBF;
+    font-family : "Comic Sans MS",cursive,sans-sherif;
+}
+h3{
+  color: #66BFBF;
+  font-family : "Comic Sans MS",cursive,sans-sherif;
+}
+p{
+  font-family: "Lucida Console", Courier, monospace;
+}
+td{
+  font-family: "Lucida Console", Courier, monospace;
+}

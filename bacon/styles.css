@@ -1,0 +1,16 @@
+h1{
+  color: red;
+  font-size: 150px;
+}
+img:hover{
+  background-color: red;
+}
+.one{
+  color: blue;
+}
+.two{
+  color: green;
+}
+.three{
+  color: #1B262C;
+}
